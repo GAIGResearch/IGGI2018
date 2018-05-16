@@ -1,0 +1,15 @@
+# Site settings
+title: "IGGI 2018 Conference, 12-13 September 2018, Queen Mary University of London (UK)."
+email: diego.perez@qmul.ac.uk
+description: >
+  The IGGI Intelligent Games and Game Intelligence Conference is your annual 
+  game research download from 100+ PhD students and researchers at York, 
+  Goldsmiths, Queen Mary and Essex Universities.
+baseurl: ""
+url: "http://2018.iggi.org.uk"
+twitter_username: iggiphd
+github_username: GAIGResearch
+
+# Build settings
+markdown: kramdown
+exclude: [coffee]
